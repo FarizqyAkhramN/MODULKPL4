@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\Modul4_103022400132\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{479072E3-0292-47D1-8B1A-F93141932F8F}|Modul4_103022400132\\Modul4_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\modul4_103022400132\\modul4_103022400132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479072E3-0292-47D1-8B1A-F93141932F8F}|Modul4_103022400132\\Modul4_103022400132.csproj|solutionrelative:modul4_103022400132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8D80A39-192A-D1D7-C839-2EEE053A4614}|Modul4_103022400132\\Modul4_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\modul4_103022400132\\modul4_103022400132\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D80A39-192A-D1D7-C839-2EEE053A4614}|Modul4_103022400132\\Modul4_103022400132.csproj|solutionrelative:modul4_103022400132\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D80A39-192A-D1D7-C839-2EEE053A4614}|Modul4_103022400132\\Modul4_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\modul4_103022400132\\modul4_103022400132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D80A39-192A-D1D7-C839-2EEE053A4614}|Modul4_103022400132\\Modul4_103022400132.csproj|solutionrelative:modul4_103022400132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KodePaket.cs",
+              "DocumentMoniker": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\Modul4_103022400132\\Modul4_103022400132\\KodePaket.cs",
+              "RelativeDocumentMoniker": "Modul4_103022400132\\KodePaket.cs",
+              "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\Modul4_103022400132\\Modul4_103022400132\\KodePaket.cs",
+              "RelativeToolTip": "Modul4_103022400132\\KodePaket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:48:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\Modul4_103022400132\\Modul4_103022400132\\Program.cs",
               "RelativeDocumentMoniker": "Modul4_103022400132\\Program.cs",
               "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\Modul4_103022400132\\Modul4_103022400132\\Program.cs",
               "RelativeToolTip": "Modul4_103022400132\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T06:41:46.976Z",
               "EditorCaption": ""
